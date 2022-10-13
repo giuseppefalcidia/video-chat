@@ -1,8 +1,10 @@
-body {background: rgb(248,248,248);
-background: linear-gradient(174deg, rgba(248,248,248,1) 0%, rgba(221,236,219,1) 87%, rgba(59,181,4,1) 91%, rgba(54,147,12,1) 100%);
-}
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;700&display=swap');
 
 * {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
 }
